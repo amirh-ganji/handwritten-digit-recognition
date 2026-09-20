@@ -35,7 +35,7 @@ Each model is evaluated on:
 
 1. Clone the repo and open the notebook:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/handwritten-digit-recognition.git
+   git clone https://github.com/amirh-ganji/handwritten-digit-recognition.git
    cd handwritten-digit-recognition
    jupyter notebook computer_vision.ipynb
    ```
